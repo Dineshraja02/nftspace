@@ -1,0 +1,357 @@
+.nftSpace_body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.nftSpace_Heading{
+    font-size: 50px;
+    color: #ffffff;
+}
+
+.nftSpace_card1{
+    width: 300px;
+    height:400px;
+    margin-top: 4.5rem !important;
+    background: url('/public/assets/simon-sigal-neon-city-girl-portrait-test9-glitch.png');
+    background-size:cover;
+    border-radius:17px !important ;
+}
+
+.nftSpace_card2{
+    width: 350px;
+    height: 500px !important;
+    background: url('/public/assets/iron_man_neon.png');
+    background-size:cover;
+    border-radius:17px !important ;
+}
+
+.nftSpace_card3{
+    width: 300px;
+    height:400px;
+    margin-top: 4.5rem !important;
+    background: url('/public/assets/293018141737884224.png');
+    background-size:cover;
+    background-repeat: none !important;
+    border-radius:17px !important ;
+}
+
+.css-pwngrv-MuiPaper-root-MuiCard-root{
+    margin:20px;
+}
+
+.css-46bh2p-MuiCardContent-root:last-child{
+    padding: none !important;
+}
+
+.nftSpace_card{
+    display: flex;
+}
+
+.nftSpace_body2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 75%;
+    margin:6rem;
+}
+
+.nftSpace_card4{
+    width: 350px;
+    height: 340px !important;
+    background: url('/public/assets/zach-key-rKE6rXOl14U-unsplash.png');
+    background-size:cover;
+    border-radius:12px !important ;
+}
+.nftSpace_card5{
+    width: 350px;
+    height: 380px !important;
+    background: url('/public/assets/iron_man_neon.png');
+    background-size:cover;
+    border-radius:17px !important ;
+}
+.nftSpace_card6{
+    width: 350px;
+    height: 400px !important;
+    background: url('/public/assets/wallpapersden.com_cool-anonymous-neon-boy_2560x1440.png');
+    background-size:cover;
+    border-radius:17px !important;
+}
+
+.nftSpace_card4_opt{
+    position: absolute;
+    left:63% ;
+ }
+ 
+ .nftSpace_card5_opt{
+     display: flex;
+     position: absolute;
+     left:62.5%;
+ }
+ 
+ .nftSpace_card6_opt{
+     display: flex;
+     position: absolute;
+     left:62%;
+ }
+
+.nftSpace_collection{
+    background: transparent !important;
+    border: none !important;
+    margin:none !important;
+    outline: none !important;
+    width:350px;
+    height: 300px;
+    box-shadow: none !important;
+}
+
+.nftSpace_collection_button{
+    background: linear-gradient(90deg, #2B6DFD 2.6%, #B450F7 97.4%) !important;
+    color:#ffffff !important;
+    font-size: 10px !important;
+    padding: 10px !important;
+}
+
+@media screen and (max-width:600px){
+    .nftSpace_card{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .nftSpace_collection{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .nftSpace_card5{
+        margin-left: 0;
+    }
+    .nftSpace_card6{
+        margin-left: 0;
+    }
+    .nftSpace_body2{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+.css-eg0mwd-MuiSlider-thumb{
+    border-radius: 2px !important;
+}
+
+.nftSpace_body3>h3{
+    color:#ffffff;
+    font-size: 30px;
+    width: 100%;
+    margin-left: 10rem;
+}
+
+.nftSpace_body3_top{
+    display: flex;
+    flex-direction: column;
+}
+
+.css-1aznpnh-MuiSlider-root{
+   background-color:  linear-gradient(90deg, #2B6DFD 0%, #6425D8 89.5%) !important;
+}
+
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline{
+    border-color:#ffffff !important ;
+}
+
+.css-hfutr2-MuiSvgIcon-root-MuiSelect-icon{
+    color:#ffffff !important;
+}
+
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+    color: #ffffff !important;
+}
+.nftSpace_body3_special{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.nftSpace_body3_specialcard1{
+    width: 200px;
+    height: 280px;
+    margin: 20px;
+    background-color: rgb(37, 37, 48) !important;
+    color: #ffffff !important;
+}
+
+.css-r40f8v-MuiTypography-root {
+    color: #929292 !important;
+}
+
+.nftSpace_body3_specialcard1>hr{
+    border: 1px solid #0F172A;
+    width: 80%;
+}
+
+.css-46bh2p-MuiCardContent-root{
+    padding: 5px !important;
+}
+
+.css-h93ljk-MuiTypography-root{
+   line-height: 0.5 !important;
+   font-size: 10px !important;
+   margin-top: 10px !important;
+}
+
+.nftSpace_body3_content{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 150px 0px 150px;
+}
+
+.nftSpace_body3_imagebox{
+    display:grid;
+    grid-template-columns: 1fr;
+    margin: 0 40px;
+}
+
+.nftSpace_body4{
+    display: flex;
+    flex-direction: column;
+    margin: 0 12rem;
+}
+
+.nftSpace_body4>h3{
+    color: #ffffff;
+    font-size: 2.5rem;
+}
+
+.nftSpace_body4>p{
+    color: #ffffff;
+}
+
+.nftSpace_imagebox1{
+    width: 300px;
+    height:200px;
+    margin-top: 4.5rem !important;
+    background: url('/public/assets/EGS_NeonAbyss_VeewoGames_S1-2560x1440-a5d38c2d5a422a1c7682082d64343e2b\ \(1\).png');
+    background-size:cover;
+    border-radius:17px !important ;
+}
+
+.nftSpace_body3_imagebox1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 2px;
+}
+
+.nftSpace_imagebox2, .nftSpace_imagebox3, .nftSpace_imagebox4{
+    width: 90px;
+    height: 60px;
+    margin:0 7px;
+}
+
+.nftSpace_imagebox2{
+    background: url('/public/assets/zach-key-rKE6rXOl14U-unsplash.png');
+    background-size:cover;
+}
+
+.nftSpace_imagebox3{
+    background: url('/public/assets/iron_man_neon.png');
+    background-size:cover;
+}
+
+.nftSpace_imagebox4{
+    background: url('/public/assets/wallpapersden.com_cool-anonymous-neon-boy_2560x1440.png');
+    background-size:cover;
+}
+
+.nftSpace_body3_imagebox1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nftSpace_body5{
+    display: flex;
+    align-items: center;
+    width: 90%;
+    margin:6rem;
+}
+
+.nftSpace_card7{
+    width: 300px;
+    height:300px;
+    margin-top: 4.5rem !important;
+    background: url('/public/assets/unnamed\ \(1\).png');
+    background: url("/public/assets/purple-neon-2021-08-30-17-35-16-utc.png");
+    background-size:cover;
+    border-radius:17px !important ;
+    margin-left:100% !important ;
+}
+
+.nftSpace_card8{
+    width: 200px;
+    height:200px;
+    margin-top: 4.5rem !important;
+    margin-left: 153% !important;
+    background: url('/public/assets/48a51af62abf1d1666c5d30798fa573e\ \(2\).png');
+    background-size:cover;
+    border-radius:17px !important ;
+}
+.nftSpace_card9{
+    width: 160px;
+    height:160px;
+    margin-top: 1rem !important;
+    margin-left:153% !important;
+    background: url('/public/assets/photo-1582769923195-c6e60dc1d8dc.png');
+    background-size:cover;
+    border-radius:17px !important ;
+}
+
+.nftSpace_body6{
+    display: flex;
+    align-items: center;
+    width: 90%;
+    margin:6rem;
+}
+
+.nftSpace_body3_specialcard2{
+    width: 200px;
+    height: 240px;
+    margin: 20px;
+    background-color: rgb(37, 37, 48) !important;
+    color: #ffffff !important;
+}
+
+.nftSpace_body3_specialcard3{
+    width: 200px;
+    height: 240px;
+    margin:  -90px 25rem 40px 20px;
+    background-color: rgb(37, 37, 48) !important;
+    color: #ffffff !important;
+}
+
+.nftSpace_Contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+}
+
+.nftSpace_Contact_head{
+    display: flex;
+    width:50%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nftSpace_Contact_body{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}
+
+.nftSpace_Contact_body>ul>li{
+    margin-top: 30px;
+    list-style: none;
+    color: #DDDDDD;
+}

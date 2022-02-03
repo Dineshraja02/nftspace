@@ -1,0 +1,48 @@
+.css-hip9hq-MuiPaper-root-MuiAppBar-root{
+    background: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.MuiMenuItem-root{
+    margin:0 0 0 2% !important ;
+}
+
+.css-1y942vo-MuiButtonBase-root-MuiButton-root {
+    border-radius: 40px !important;
+    margin: 10px !important;
+}
+
+.nftspace_Toolbar_Search{
+    background: none !important;
+    border: 2px solid #ffffff;
+    border-radius:8px !important ;
+}
+
+.nftspace_Toolbar_upload{
+    background: linear-gradient(124.95deg, #4255CE 9.75%, #6425D8 90.61%) !important;
+}
+
+.nftspace_Toolbar_connect{
+    border:2px solid #ffffff !important;
+    border-radius: 40px !important;
+  
+}
+
+.css-1juivf6-MuiTypography-root{
+    width: 100px !important;
+    border-right: 1px black ;
+    -webkit-box-flex: none !important; 
+    -webkit-flex-grow: none !important; 
+    -ms-flex-positive: none !important;
+    flex-grow: 0.2 !important;
+    margin-left : 30px ;
+}
+
+.css-96uuyl{
+    margin-left: 10% !important;
+}
+
+.iconToken{
+    background-image: url("/public/assets/background\ \(1\).png") !important;
+}
