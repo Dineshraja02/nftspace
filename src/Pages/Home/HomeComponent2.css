@@ -1,0 +1,65 @@
+
+
+.nftSpace_body2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 75%;
+    margin:6rem;
+}
+
+.nftSpace_card4{
+    width: 350px;
+    height: 340px !important;
+    background: url('/public/assets/zach-key-rKE6rXOl14U-unsplash.png');
+    background-size:cover;
+    border-radius:12px !important ;
+}
+.nftSpace_card5{
+    width: 350px;
+    height: 380px !important;
+    background: url('/public/assets/iron_man_neon.png');
+    background-size:cover;
+    border-radius:17px !important ;
+}
+.nftSpace_card6{
+    width: 350px;
+    height: 400px !important;
+    background: url('/public/assets/wallpapersden.com_cool-anonymous-neon-boy_2560x1440.png');
+    background-size:cover;
+    border-radius:17px !important;
+}
+
+.nftSpace_card4_opt{
+    position: absolute;
+    left:63% ;
+ }
+ 
+ .nftSpace_card5_opt{
+     display: flex;
+     position: absolute;
+     left:62.5%;
+ }
+ 
+ .nftSpace_card6_opt{
+     display: flex;
+     position: absolute;
+     left:62%;
+ }
+
+.nftSpace_collection{
+    background: transparent !important;
+    border: none !important;
+    margin:none !important;
+    outline: none !important;
+    width:350px;
+    height: 300px;
+    box-shadow: none !important;
+}
+
+.nftSpace_collection_button{
+    background: linear-gradient(90deg, #2B6DFD 2.6%, #B450F7 97.4%) !important;
+    color:#ffffff !important;
+    font-size: 10px !important;
+    padding: 10px !important;
+}

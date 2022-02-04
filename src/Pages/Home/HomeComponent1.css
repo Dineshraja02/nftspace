@@ -1,0 +1,49 @@
+.nftSpace_body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.nftSpace_Heading{
+    font-size: 50px;
+    color: #ffffff;
+}
+
+.nftSpace_card1{
+    width: 300px;
+    height:400px;
+    margin-top: 4.5rem !important;
+    background: url('/public/assets/simon-sigal-neon-city-girl-portrait-test9-glitch.png');
+    background-size:cover;
+    border-radius:17px !important ;
+}
+
+.nftSpace_card2{
+    width: 350px;
+    height: 500px !important;
+    background: url('/public/assets/iron_man_neon.png');
+    background-size:cover;
+    border-radius:17px !important ;
+}
+
+.nftSpace_card3{
+    width: 300px;
+    height:400px;
+    margin-top: 4.5rem !important;
+    background: url('/public/assets/293018141737884224.png');
+    background-size:cover;
+    background-repeat: none !important;
+    border-radius:17px !important ;
+}
+
+.css-pwngrv-MuiPaper-root-MuiCard-root{
+    margin:20px;
+}
+
+.css-46bh2p-MuiCardContent-root:last-child{
+    padding: none !important;
+}
+
+.nftSpace_card{
+    display: flex;
+}

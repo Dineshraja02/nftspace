@@ -1,0 +1,28 @@
+
+.nftSpace_body6{
+    display: flex;
+    align-items: center;
+    width: 90%;
+    margin:6rem;
+}
+
+.nftSpace_body3_specialcard2{
+    width: 200px;
+    height: 255px;
+    margin: 20px;
+    background-color: rgb(37, 37, 48) !important;
+    color: #ffffff !important;
+}
+
+.nftSpace_body3_specialcard3{
+    width: 200px;
+    height: 255px;
+    margin:  -90px 25rem 40px 20px;
+    background-color: rgb(37, 37, 48) !important;
+    color: #ffffff !important;
+}
+
+.css-r40f8v-MuiTypography-root {
+    font-size: 10px !important;
+    margin-top: 10px !important;
+}

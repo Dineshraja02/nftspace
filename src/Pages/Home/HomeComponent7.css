@@ -1,0 +1,26 @@
+.nftSpace_Contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+}
+
+.nftSpace_Contact_head{
+    display: flex;
+    width:50%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nftSpace_Contact_body{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}
+
+.nftSpace_Contact_body>ul>li{
+    margin-top: 30px;
+    list-style: none;
+    color: #DDDDDD;
+}

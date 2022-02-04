@@ -1,0 +1,125 @@
+.nftSpace_body3>h3{
+    color:#ffffff;
+    font-size: 30px;
+    margin-left: 10rem;
+}
+
+.nftSpace_body3_top{
+    display: flex;
+    flex-direction: column;
+}
+
+.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input {
+    color: #ffffff !important;
+}
+
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline{
+    border-color:#ffffff !important ;
+}
+
+.css-hfutr2-MuiSvgIcon-root-MuiSelect-icon{
+    color:#ffffff !important;
+}
+
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+    color: #ffffff !important;
+}
+.nftSpace_body3_special{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.nftSpace_body3_specialcard1{
+    width: 200px;
+    height: 280px;
+    margin: 20px;
+    background-color: rgb(37, 37, 48) !important;
+    color: #ffffff !important;
+}
+
+.css-r40f8v-MuiTypography-root {
+    color: #929292 !important;
+    margin-left: 10px !important;
+}
+
+.nftSpace_body3_specialcard1>hr{
+    border: 1px solid #0F172A;
+    width: 80%;
+}
+
+.css-46bh2p-MuiCardContent-root{
+    padding: 5px !important;
+}
+
+.css-h93ljk-MuiTypography-root{
+   line-height: 0.5 !important;
+   font-size: 10px !important;
+   margin-top: 10px !important;
+}
+
+.nftSpace_body3_content{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 150px 0px 150px;
+}
+
+.css-1kz0hui-MuiSlider-valueLabel{
+    background-color: #ffffff !important;
+    color: rgb(54, 54, 54) !important;
+    font-weight: 600 !important;
+}
+
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root{
+        margin-top: 15px;
+}
+
+.outlined-basic{
+    width: 20px !important;
+    margin-top: 20px !important;
+}
+
+.css-1aznpnh-MuiSlider-root{
+    height: 10px !important;
+}
+
+.nftSpace_body3_imagebox{
+    display:grid;
+    grid-template-columns: 1fr;
+    margin: 0 40px;
+}
+.css-1eoe787-MuiSlider-markLabel, .css-yafthl-MuiSlider-markLabel{
+    color:#ffffff !important;
+    font-weight: 600 !important;
+}
+
+.css-1gv0vcd-MuiSlider-track{
+    background:  linear-gradient(90deg, #2B6DFD 0%, #6425D8 89.5%);;
+}
+
+.css-h93ljk-MuiTypography-root{
+    margin-left: 10px !important;
+}
+
+.css-eg0mwd-MuiSlider-thumb{
+    border-radius: 2px !important;
+    border: 2px solid #ffffff;
+}
+
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root{
+    margin-top:14px;
+}
+
+#demo-multiple-checkbox-label1{
+    margin-top: 70px;
+    display: flex;
+    align-self: center;
+    color: #ffffff !important;
+}
+
+#nftSpace_body3_p{
+        color:#ffffff;
+}
+
+#LabelIcon {
+    margin-right: 10px;
+}

@@ -1,0 +1,37 @@
+
+.nftSpace_body5{
+    display: flex;
+    align-items: center;
+    width: 90%;
+    margin:6rem;
+}
+
+.nftSpace_card7{
+    width: 300px;
+    height:300px;
+    margin-top: 4.5rem !important;
+    background: url('/public/assets/unnamed\ \(1\).png');
+    background: url("/public/assets/purple-neon-2021-08-30-17-35-16-utc.png");
+    background-size:cover;
+    border-radius:17px !important ;
+    margin-left:100% !important ;
+}
+
+.nftSpace_card8{
+    width: 200px;
+    height:200px;
+    margin-top: 4.5rem !important;
+    margin-left: 153% !important;
+    background: url('/public/assets/48a51af62abf1d1666c5d30798fa573e\ \(2\).png');
+    background-size:cover;
+    border-radius:17px !important ;
+}
+.nftSpace_card9{
+    width: 160px;
+    height:160px;
+    margin-top: 1rem !important;
+    margin-left:153% !important;
+    background: url('/public/assets/photo-1582769923195-c6e60dc1d8dc.png');
+    background-size:cover;
+    border-radius:17px !important ;
+}

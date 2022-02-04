@@ -1,0 +1,78 @@
+.nftSpace_body4{
+    display: flex;
+    flex-direction: column;
+    margin: 0 12rem;
+}
+
+.nftSpace_body4>h3{
+    color: #ffffff;
+    font-size: 2.5rem;
+}
+
+.nftSpace_body4>p{
+    color: #ffffff;
+}
+
+.nftSpace_imagebox1{
+    width: 300px;
+    height:200px;
+    margin-top: 4.5rem !important;
+    background: url('/public/assets/EGS_NeonAbyss_VeewoGames_S1-2560x1440-a5d38c2d5a422a1c7682082d64343e2b\ \(1\).png');
+    background-size:cover;
+    border-radius:17px !important ;
+}
+
+.nftSpace_body3_imagebox1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 2px;
+}
+
+.nftSpace_imagebox2, .nftSpace_imagebox3, .nftSpace_imagebox4{
+    width: 90px;
+    height: 60px;
+    margin:0 7px;
+}
+
+.nftSpace_imagebox2{
+    background: url('/public/assets/zach-key-rKE6rXOl14U-unsplash.png');
+    background-size:cover;
+}
+
+.nftSpace_imagebox3{
+    background: url('/public/assets/iron_man_neon.png');
+    background-size:cover;
+}
+
+.neon_game_image{
+    width: 35px;
+    height: 35px;
+}
+
+.neon_game_div{
+    color: #ffffff;
+    font-size: 15px;
+    margin-left: 23px;
+}
+
+.neon_game_div2{
+    display: flex;
+    font-size: 10px;
+    align-items: center;
+}
+
+.neon_game_div2>p{
+    margin-left: 10px;
+}
+
+
+.nftSpace_imagebox4{
+    background: url('/public/assets/wallpapersden.com_cool-anonymous-neon-boy_2560x1440.png');
+    background-size:cover;
+}
+
+.nftSpace_body3_imagebox1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
